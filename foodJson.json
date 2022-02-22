@@ -2,7 +2,6 @@
   "foodName": "FoodBot",
   "cidade": "Palmas",
   "dia": "22/02/2022",
-  //"secretBase": "Super tower",
   "active": true,
   "alimentos": [
     {
