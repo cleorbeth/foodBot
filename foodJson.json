@@ -9,9 +9,9 @@
       "peso": "5kg",
       "valor": "R$25,50",
       "supermercado": [
-        "Supermercado 1",
-        "Supermercado 2",
-        "Supermercado 3"
+        "Mateus",
+        "Big",
+        "Quarteto"
       ]
     },
     {
@@ -19,9 +19,9 @@
       "peso": "1kg",
       "valor": "R$6",
       "supermercado": [
-        "Supermercado 1",
-        "Supermercado 2",
-        "Supermercado 3"
+        "Mateus",
+        "Big",
+        "Quarteto"
       ]
     },
     {
@@ -29,9 +29,9 @@
       "peso": "1kg",
       "valor": "R$2,80",
       "supermercado": [
-        "Supermercado 1",
-        "Supermercado 2",
-        "Supermercado 3"
+        "Mateus",
+        "Big",
+        "Quarteto"
       ]
     }
   ]
