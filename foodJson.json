@@ -1,40 +1,38 @@
 {
-  "squadName": "Super hero squad",
-  "homeTown": "Metro City",
-  "formed": 2016,
-  "secretBase": "Super tower",
+  "foodName": "FoodBot",
+  "cidade": "Palmas",
+  "dia": "22/02/2022",
+  //"secretBase": "Super tower",
   "active": true,
-  "members": [
+  "alimentos": [
     {
-      "name": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
-      "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "name": "Arroz",
+      "peso": "1kg",
+      "valor": 11,
+      "supermercado": [
+        "Supermercado 1",
+        "Supermercado 2",
+        "Supermercado 3"
       ]
     },
     {
-      "name": "Madame Uppercut",
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
-      "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "name": "Feijão",
+      "peso": "1kg",
+      "valor": 1,
+      "supermercado": [
+        "Supermercado 1",
+        "Supermercado 2",
+        "Supermercado 3"
       ]
     },
     {
-      "name": "Eternal Flame",
-      "age": 1000000,
-      "secretIdentity": "Unknown",
-      "powers": [
-        "Immortality",
-        "Heat Immunity",
-        "Inferno",
-        "Teleportation",
-        "Interdimensional travel"
+      "name": "Batata",
+      "peso": "1kg",
+      "valor": 11,
+      "supermercado": [
+        "Supermercado 1",
+        "Supermercado 2",
+        "Supermercado 3"
       ]
     }
   ]
